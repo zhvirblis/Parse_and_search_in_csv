@@ -7,7 +7,7 @@ import java .util.ArrayList;
  */
 public class main {
     public static void main(String[] args) throws IOException {
-
+        //Здесь был Юрец
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         File f = new File("E:\\parselib.csv");
         BufferedReader fin = new BufferedReader(new FileReader(f));
